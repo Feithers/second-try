@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+}
+
+.box-1 {
+    background-color: white;
+    max-width: 17rem;
+    height: 26rem;
+    border-radius: 5%;
+}
+
+.text-1 {
+    font-family: "outfit", sans-serif;
+    font-size: 0.9375rem;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.text-2 {
+    font-family: "outfit", sans-serif;
+    font-size: 0.9375rem;
+    text-align: center;
+    font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+
+}
+
+.img-1 {
+    padding: 0.8rem;
+    max-width:  100%;
+    border-radius: 8%;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
